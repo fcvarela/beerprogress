@@ -2,6 +2,8 @@
 
 Command line progress indicator library Python
 
+![alt text](https://raw.githubusercontent.com/fcvarela/beerprogress/master/shot.png "Screenshot")
+
 ### Usage:
     import os
     import time
