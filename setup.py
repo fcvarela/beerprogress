@@ -11,6 +11,6 @@ setup(
     author_email='fcvarela@gmail.com',
     url='https://github.com/fcvarela/beerprogress',
     install_requires=[
-        "psutil==2.1.1"
+        "psutil==5.6.6"
     ]
 )
